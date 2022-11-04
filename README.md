@@ -37,6 +37,7 @@
 - [PCPartsPicker](https://pcpartpicker.com/) or [BuildMyPC](https://buildmypc.net/): Allows you to pick parts for your PC. 
 - [RasberryPi](https://thepihut.com/): Allows you to Rasberry Pi a device. (RasberryPi is frankenstien.)
 - [UserBenchmark](https://www.userbenchmark.com/): Compare your PC's benchmark to other PC benchmarks. 
+- [Preventative Maintenance Checklist](https://www.brainbell.com/tutors/A+/Hardware/Preventive_Maintenance_Schedule.htm): Do preventative maintenance to keep your computers or devices working longer. (Basic tech tip.) Takes a laptop from lasting 2 years, to a laptop lasting 4-3 years. 
 - [Code Errors](https://0.30000000000000004.com/): Explains math errors in code for dummies (like me!)
 
 ## Websites-Fun!
