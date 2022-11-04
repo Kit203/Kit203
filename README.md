@@ -8,11 +8,11 @@
 # My Recommended Resources
 ## Educational Resources
 - [Blender Basics](https://www.udemy.com/course/blendertutorial/) or [Gamedev.tv bundle](https://www.gamedev.tv/p/blender-bundle/?coupon_code=AUTUMN): Costs $
-- [C++ for UnrealEngine Development](https://www.udemy.com/course/unrealcourse/): Costs $
-- [CyberSecurity Basics](https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/): Costs $
-- [www.w3schools.com](https://www.w3schools.com/default.asp): Free 
-- [freecodecamp](https://www.freecodecamp.org/): Free 
-- [commonmark](https://commonmark.org/help/): Free
+- [C++ for UnrealEngine Development](https://www.udemy.com/course/unrealcourse/): __Costs $__
+- [CyberSecurity Basics](https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/): __Costs $__
+- [www.w3schools.com](https://www.w3schools.com/default.asp): __FREE__ teaches HTML, CSS, [RWD, Bootstrap, W3.CSS, Colors, Icons, Graphics, SVG, Canvas, Sass,] Javascript, [jquery, react, AngularJS, JSON, AJAX, AppML, W3.JS,] Python, C, C#, R, Kotlin, Go, Django, & Typescript. 
+- [freecodecamp](https://www.freecodecamp.org/): __FREE__ 
+- [commonmark](https://commonmark.org/help/): __FREE__ teaches Markdown for the "Readme.md" sections of websites like this one. 
 
 ## Computer Resources
 - Notepad: Preinstalled on most desktop windows computers. 
