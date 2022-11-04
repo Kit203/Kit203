@@ -16,13 +16,13 @@
 
 ## Computer Software
 - Notepad: __Preinstalled__ on desktop windows computers.  
-- [VisualStudios](https://code.visualstudio.com/): __Free but has many packages, and requires a decent amount of systems space to run__. Capable of running pretty much anything and is supposed to work well with windows desktop.
-- [Repl.it](https://replit.com/): __Free__ online program, stores your code in a cloud system for free, but the __code isn't privately stored unless you pay a fee__. 
-- [Github](https://github.com/): Also a __free__ online program, stores your code in a cloud, can be privated but it must be made public at least once. 
-- [Blender](https://www.blender.org/): __Free__ 3D modelling, Video editing, 2D art, and animation software. 
+- [VisualStudios](https://code.visualstudio.com/): __FREE but has many packages, and requires a decent amount of systems space to run__. Capable of running pretty much anything and is supposed to work well with windows desktop.
+- [Repl.it](https://replit.com/): __FREE__ online program, stores your code in a cloud system for free, but the __code isn't privately stored unless you pay a FEE__. 
+- [Github](https://github.com/): Also a __FREE__ online program, stores your code in a cloud, can be privated but it must be made public at least once. 
+- [Blender](https://www.blender.org/): __FREE__ 3D modelling, Video editing, 2D art, and animation software. 
 - [DaVinci Studios](https://www.blackmagicdesign.com/products/davinciresolve): __Free__ video editing software. Note: They are pushing to make their own "system" like that of adobe's preimere pro. This is why they are free. 
-- [Photopea](https://www.photopea.com/): __Free__ image editor like photoshop. 
-- [QGIS](https://www.qgis.org/en/site/): __Free__ map making software similar to GIS. 
+- [Photopea](https://www.photopea.com/): __FREE__ image editor like photoshop. 
+- [QGIS](https://www.qgis.org/en/site/): __FREE__ map making software similar to GIS. 
 
 # My Most Popular Repo
 - I don't have one yet. 
