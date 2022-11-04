@@ -23,6 +23,7 @@
 - [DaVinci Studios](https://www.blackmagicdesign.com/products/davinciresolve): __Free__ video editing software. Note: They are pushing to make their own "system" like that of adobe's preimere pro. This is why they are free. 
 - [Photopea](https://www.photopea.com/): __FREE__ image editor like photoshop. 
 - [QGIS](https://www.qgis.org/en/site/): __FREE__ map making software similar to GIS. 
+- - Remember to share these resources with others if you like them too. 
 
 # My Most Popular Repo
 - I don't have one yet. 
