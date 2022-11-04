@@ -7,9 +7,9 @@
 
 # My Recommended Resources
 ## Educational Resources
-- [Blender Basics](https://www.udemy.com/course/blendertutorial/) or [Gamedev.tv bundle](https://www.gamedev.tv/p/blender-bundle/?coupon_code=AUTUMN) $$-$$$
-- [C++ for UnrealEngine Development](https://www.udemy.com/course/unrealcourse/) $$-$$$
-- [CyberSecurity Basics](https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/): $$-$$$
+- [Blender Basics](https://www.udemy.com/course/blendertutorial/) or [Gamedev.tv bundle](https://www.gamedev.tv/p/blender-bundle/?coupon_code=AUTUMN): Costs $
+- [C++ for UnrealEngine Development](https://www.udemy.com/course/unrealcourse/): Costs $
+- [CyberSecurity Basics](https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/): Costs $
 - [www.w3schools.com](https://www.w3schools.com/default.asp): Free 
 - [freecodecamp](https://www.freecodecamp.org/): Free 
 
@@ -20,6 +20,7 @@
 - Github: Also a free online program, stores your code in a cloud, can be privated but it must be made public at least once. 
 - Blender: Free 3D modelling, Video editing, 2D art, and animation software. 
 - DaVinci Studios: Free video editing software. 
+- Photopea: Free image editor like photoshop. 
 
 <!---
 Kit203/Kit203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
