@@ -16,7 +16,7 @@
 
 ## Computer Software
 - Notepad: __Preinstalled__ on desktop windows computers.  
-- [VisualStudios](https://code.visualstudio.com/): __FREE but has many packages, and requires a decent amount of systems space to run__. Capable of running pretty much anything and is supposed to work well with windows desktop.
+- [VisualStudios](https://code.visualstudio.com/): __FREE__ but has many packages, and __requires a decent amount of systems space to run__. Capable of running pretty much anything and is supposed to work well with windows desktop.
 - [Repl.it](https://replit.com/): __FREE__ online program, stores your code in a cloud system for free, but the __code isn't privately stored unless you pay a FEE__. 
 - [Github](https://github.com/): Also a __FREE__ online program, stores your code in a cloud, can be privated but it must be made public at least once. 
 - [Blender](https://www.blender.org/): __FREE__ 3D modelling, Video editing, 2D art, and animation software. 
