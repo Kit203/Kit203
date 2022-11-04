@@ -23,6 +23,26 @@
 - [DaVinci Studios](https://www.blackmagicdesign.com/products/davinciresolve): __Free__ video editing software. Note: They are pushing to make their own "system" like that of adobe's preimere pro. This is why they are free. 
 - [Photopea](https://www.photopea.com/): __FREE__ image editor like photoshop. 
 - [QGIS](https://www.qgis.org/en/site/): __FREE__ map making software similar to GIS. 
+
+## Websites-Serious
+- [FontAwesome](https://fontawesome.com/): __FREE__ logos and stuff for code. 
+- [MyColorSpace](https://mycolor.space/):__FREE__ just makes a colour gradient based off color selection using basic colour theory. 
+- [ImageColorPicker](https://imagecolorpicker.com/color-code/2596be): __FREE__ picks colors off images. 
+- [CSS Gradient](https://cssgradient.io/):__FREE__ provides code in CSS for a colour gradient of your choosing for your text and such. 
+- [Am I Responsive](https://ui.dev/amiresponsive): __FREE__ tests website responsivity. 
+- [WhatTheFont](https://www.myfonts.com/pages/whatthefont): Provides fonts from a digital image.
+- [GoogleFonts](https://fonts.google.com/): Provides free fonts for __personal use__.
+- [DaFont](https://www.dafont.com/): Provides free fonts for __personal use.__ 
+- [Usabilitygeek](https://usabilitygeek.com/free-fonts-for-commercial-personal-use/): Provides fonts for commercial use. 
+- [Alt-Codes](https://www.alt-codes.net/): Provides special keyboard characters for different languages, emojis, or even just directions like arrows. Or subscript for "MATH". A basic computer must have! 
+
+## Websites-Fun!
+- [Emotes](http://en.emoticonfun.com/special/): __FREE__ Copy & Paste
+- [ASCII Art Generator](https://www.ascii-art-generator.org/)) or [ASCII Art Archive](https://www.asciiart.eu/) or [Text Art](https://fsymbols.com/text-art/)
+- [DiscordFonts](https://lingojam.com/DiscordFonts)
+- 
+
+## Remember
 - - Remember to share these resources with others if you like them too. 
 
 # My Most Popular Repo
