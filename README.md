@@ -42,8 +42,8 @@
 ## Websites-Fun!
 - [Emotes](http://en.emoticonfun.com/special/): __FREE__ Copy & Paste
 - [ASCII Art Generator](https://www.ascii-art-generator.org/)) or [ASCII Art Archive](https://www.asciiart.eu/) or [Text Art](https://fsymbols.com/text-art/): Provides fun ASCII Art. 
-- [DiscordFonts](https://lingojam.com/DiscordFonts): 
-- [HowLongToBeat](https://howlongtobeat.com/):
+- [DiscordFonts](https://lingojam.com/DiscordFonts): Allows you to change normal text to crazy looking text that will scare your tech illiterate grandma (LIKE ME!)
+- [HowLongToBeat](https://howlongtobeat.com/): Tells you how long it will take you to beat a game based off other player experiences. 
 
 ## Remember
 - - Remember to share these resources with others if you like them too. 
