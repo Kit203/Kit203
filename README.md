@@ -31,16 +31,19 @@
 - [CSS Gradient](https://cssgradient.io/):__FREE__ provides code in CSS for a colour gradient of your choosing for your text and such. 
 - [Am I Responsive](https://ui.dev/amiresponsive): __FREE__ tests website responsivity. 
 - [WhatTheFont](https://www.myfonts.com/pages/whatthefont): Provides fonts from a digital image.
-- [GoogleFonts](https://fonts.google.com/): Provides free fonts for __personal use__.
-- [DaFont](https://www.dafont.com/): Provides free fonts for __personal use.__ 
+- [GoogleFonts](https://fonts.google.com/) or [DaFont](https://www.dafont.com/): Provides free fonts for __personal use__.
 - [Usabilitygeek](https://usabilitygeek.com/free-fonts-for-commercial-personal-use/): Provides fonts for commercial use. 
-- [Alt-Codes](https://www.alt-codes.net/): Provides special keyboard characters for different languages, emojis, or even just directions like arrows. Or subscript for "MATH". A basic computer must have! 
+- [Alt-Codes](https://www.alt-codes.net/): Provides special keyboard characters for different languages, emojis, or even just directions like arrows. Or subscript for "MATH". __A basic computer must have!__ Respect culture!
+- [PCPartsPicker](https://pcpartpicker.com/) or [BuildMyPC](https://buildmypc.net/): Allows you to pick parts for your PC. 
+- [RasberryPi](https://thepihut.com/): Allows you to Rasberry Pi a device. (RasberryPi is frankenstien.)
+- [UserBenchmark](https://www.userbenchmark.com/): Compare your PC's benchmark to other PC benchmarks. 
+- [Code Errors](https://0.30000000000000004.com/): Explains math errors in code for dummies (like me!)
 
 ## Websites-Fun!
 - [Emotes](http://en.emoticonfun.com/special/): __FREE__ Copy & Paste
-- [ASCII Art Generator](https://www.ascii-art-generator.org/)) or [ASCII Art Archive](https://www.asciiart.eu/) or [Text Art](https://fsymbols.com/text-art/)
-- [DiscordFonts](https://lingojam.com/DiscordFonts)
-- 
+- [ASCII Art Generator](https://www.ascii-art-generator.org/)) or [ASCII Art Archive](https://www.asciiart.eu/) or [Text Art](https://fsymbols.com/text-art/): Provides fun ASCII Art. 
+- [DiscordFonts](https://lingojam.com/DiscordFonts): 
+- [HowLongToBeat](https://howlongtobeat.com/):
 
 ## Remember
 - - Remember to share these resources with others if you like them too. 
