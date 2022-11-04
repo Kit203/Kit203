@@ -14,14 +14,15 @@
 - [freecodecamp](https://www.freecodecamp.org/): __FREE__ teaches everything that w3schools teaches, but you get a certificate.
 - [commonmark](https://commonmark.org/help/): __FREE__ teaches Markdown for the "Readme.md" sections of websites like this one. 
 
-## Computer Resources
-- Notepad: Preinstalled on most desktop windows computers. 
-- VisualStudios: Has many packages, and requires a decent amount of systems space to run. Capable of running pretty much anything and is supposed to work well with windows desktop.
-- Repl.it: Free online program, stores your code in a cloud system for free, but the code isn't privately stored unless you pay a fee. 
-- Github: Also a free online program, stores your code in a cloud, can be privated but it must be made public at least once. 
-- Blender: Free 3D modelling, Video editing, 2D art, and animation software. 
-- DaVinci Studios: Free video editing software. 
-- Photopea: Free image editor like photoshop. 
+## Computer Software
+- Notepad: __Preinstalled__ on desktop windows computers.  
+- [VisualStudios](https://code.visualstudio.com/): __Free but has many packages, and requires a decent amount of systems space to run__. Capable of running pretty much anything and is supposed to work well with windows desktop.
+- [Repl.it](https://replit.com/): __Free__ online program, stores your code in a cloud system for free, but the __code isn't privately stored unless you pay a fee__. 
+- [Github](https://github.com/): Also a __free__ online program, stores your code in a cloud, can be privated but it must be made public at least once. 
+- [Blender](https://www.blender.org/): __Free__ 3D modelling, Video editing, 2D art, and animation software. 
+- [DaVinci Studios](https://www.blackmagicdesign.com/products/davinciresolve): __Free__ video editing software. Note: They are pushing to make their own "system" like that of adobe's preimere pro. This is why they are free. 
+- [Photopea](https://www.photopea.com/): __Free__ image editor like photoshop. 
+- [QGIS](https://www.qgis.org/en/site/): __Free__ map making software similar to GIS. 
 
 # My Most Popular Repo
 - I don't have one yet. 
