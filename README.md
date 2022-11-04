@@ -7,9 +7,9 @@
 
 # My Recommended Resources
 ## Educational Resources
-- [Blender Basics](https://www.udemy.com/course/blendertutorial/) or [Gamedev.tv bundle](https://www.gamedev.tv/p/blender-bundle/?coupon_code=AUTUMN): Costs $
-- [C++ for UnrealEngine Development](https://www.udemy.com/course/unrealcourse/): __Costs $__
-- [CyberSecurity Basics](https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/): __Costs $__
+- [Blender Basics](https://www.udemy.com/course/blendertutorial/) or [Gamedev.tv bundle](https://www.gamedev.tv/p/blender-bundle/?coupon_code=AUTUMN): Costs $ You get a certificate. 
+- [C++ for UnrealEngine Development](https://www.udemy.com/course/unrealcourse/): __Costs $__ You get a certificate. 
+- [CyberSecurity Basics](https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/): __Costs $__ You get a certificate.
 - [www.w3schools.com](https://www.w3schools.com/default.asp): __FREE__ teaches HTML, CSS, [RWD, Bootstrap, W3.CSS, Colors, Icons, Graphics, SVG, Canvas, Sass,] Javascript, [jquery, react, AngularJS, JSON, AJAX, AppML, W3.JS,] Python, C, C#, R, Kotlin, Go, Django, & Typescript. 
 - [freecodecamp](https://www.freecodecamp.org/): __FREE__ teaches everything that w3schools teaches, but you get a certificate.
 - [commonmark](https://commonmark.org/help/): __FREE__ teaches Markdown for the "Readme.md" sections of websites like this one. 
