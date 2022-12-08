@@ -20,7 +20,7 @@
 ## Computer Software
 - Notepad: __Preinstalled__ on desktop windows computers.  
 - [VisualStudios](https://code.visualstudio.com/): __FREE__ but has __many packages__, and __requires a decent amount of systems space to run__. Capable of running pretty much anything and is supposed to work well with windows desktop.
-- [Thonny] (https://thonny.org/)  __FREE__ and __OpenSource__ but doesn't offer as many coding languages. Mostly hones in on Python, but offers an immediate display enviroment for python and isn't nearly as clunky.  
+- [Thonny](https://thonny.org/)  __FREE__ and __OpenSource__ but doesn't offer as many coding languages. Mostly hones in on Python, but offers an immediate display enviroment for python and isn't nearly as clunky.  
 - [Repl.it](https://replit.com/): __FREE__ and __OpenSource__ online program, stores your code in a cloud system for free, but the __code isn't privately stored unless you pay a FEE__. Can fork other people's code similar to Github.  
 - [Github](https://github.com/): Also a __FREE__ online program, stores your code in a cloud, can be privated but it must be made public at least once. 
 - [Blender](https://www.blender.org/): __FREE__ and __OpenSource (licensed as GNU GPL)__ 3D modelling, Video editing, 2D art, and animation software. 
