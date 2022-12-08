@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... archaeology, gaming. 
 - 🌱 I’m currently learning ... C++, HTML, CSS, Javascript, Python, 3D Modeling, and Video Editing. 
 - 💞️ I’m looking to collaborate on ... I am just privately learning, just to expand my personal knowledge bases. If you wanna collaborate with me, cool. Although I won't be much help. I'll try my best. 
-- 📫 How to reach me ... my resume website when it's complete.
+- 📫 How to reach me ... my resume website when it's complete. No trolling, harassment or beligrent behaviour or else immediate block. 
 
 # My Recommended Resources
 ## Educational Resources
@@ -14,15 +14,19 @@
 - [freecodecamp](https://www.freecodecamp.org/): __FREE__ teaches everything that w3schools teaches, but you get a certificate.
 - [commonmark](https://commonmark.org/help/): __FREE__ teaches Markdown for the "Readme.md" sections of websites like this one. 
 
+## My Hardware
+- [Wacom] (https://www.wacom.com/en-us) Drawing Tablet for blender. Was 25$.
+
 ## Computer Software
 - Notepad: __Preinstalled__ on desktop windows computers.  
-- [VisualStudios](https://code.visualstudio.com/): __FREE__ but has many packages, and __requires a decent amount of systems space to run__. Capable of running pretty much anything and is supposed to work well with windows desktop.
-- [Repl.it](https://replit.com/): __FREE__ online program, stores your code in a cloud system for free, but the __code isn't privately stored unless you pay a FEE__. 
+- [VisualStudios](https://code.visualstudio.com/): __FREE__ but has __many packages__, and __requires a decent amount of systems space to run__. Capable of running pretty much anything and is supposed to work well with windows desktop.
+- [Thonny] (https://thonny.org/)  __FREE__ and __OpenSource__ but doesn't offer as many coding languages. Mostly hones in on Python, but offers an immediate display enviroment for python and isn't nearly as clunky.  
+- [Repl.it](https://replit.com/): __FREE__ and __OpenSource__ online program, stores your code in a cloud system for free, but the __code isn't privately stored unless you pay a FEE__. Can fork other people's code similar to Github.  
 - [Github](https://github.com/): Also a __FREE__ online program, stores your code in a cloud, can be privated but it must be made public at least once. 
-- [Blender](https://www.blender.org/): __FREE__ 3D modelling, Video editing, 2D art, and animation software. 
+- [Blender](https://www.blender.org/): __FREE__ and __OpenSource (licensed as GNU GPL)__ 3D modelling, Video editing, 2D art, and animation software. 
 - [DaVinci Studios](https://www.blackmagicdesign.com/products/davinciresolve): __Free__ video editing software. Note: They are pushing to make their own "system" like that of adobe's preimere pro. This is why they are free. 
 - [Photopea](https://www.photopea.com/): __FREE__ image editor like photoshop. 
-- [QGIS](https://www.qgis.org/en/site/): __FREE__ map making software similar to GIS. 
+- [QGIS](https://www.qgis.org/en/site/): __FREE__ and __OpenSource__ map making software similar to GIS. 
 
 ## Websites-Serious
 - [FontAwesome](https://fontawesome.com/): __FREE__ logos and stuff for code. 
