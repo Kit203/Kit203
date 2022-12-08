@@ -15,7 +15,7 @@
 - [commonmark](https://commonmark.org/help/): __FREE__ teaches Markdown for the "Readme.md" sections of websites like this one. 
 
 ## My Hardware
-- [Wacom] (https://www.wacom.com/en-us) Drawing Tablet for blender. Was 25$.
+- [Wacom](https://www.wacom.com/en-us) Drawing Tablet for blender. Was 25$.
 
 ## Computer Software
 - Notepad: __Preinstalled__ on desktop windows computers.  
