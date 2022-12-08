@@ -36,7 +36,7 @@
 - [Am I Responsive](https://ui.dev/amiresponsive): __FREE__ tests website responsivity. 
 - [WhatTheFont](https://www.myfonts.com/pages/whatthefont): Provides fonts from a digital image.
 - [GoogleFonts](https://fonts.google.com/) or [DaFont](https://www.dafont.com/): Provides free fonts for __personal use__.
-- [Usabilitygeek](https://usabilitygeek.com/free-fonts-for-commercial-personal-use/): Provides fonts for commercial use. 
+- [Usabilitygeek](https://usabilitygeek.com/free-fonts-for-commercial-personal-use/): Provides fonts for __commercial use__. 
 - [Alt-Codes](https://www.alt-codes.net/): Provides special keyboard characters for different languages, emojis, or even just directions like arrows. Or subscript for "MATH". __A basic computer must have!__ Respect culture!
 - [PCPartsPicker](https://pcpartpicker.com/) or [BuildMyPC](https://buildmypc.net/): Allows you to pick parts for your PC. 
 - [RasberryPi](https://thepihut.com/): Allows you to Rasberry Pi a device. (RasberryPi is frankenstien.)
