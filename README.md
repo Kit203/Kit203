@@ -54,10 +54,11 @@
 - Remember to share these resources with others if you like them too. 
 - The reason this list is here is as much for me as for you. It helps me remember what I am supposed to do and I can re-reference this as needed. Although I already have this compiled in one location. This is just a spare.
 
-# My Most Popular Repo
+# Repos
+## My Most Popular Repo
 - I don't have one yet. 
 
-# My Last Updated Repos
+## My Last Updated Repos
 - [Resume Website](https://github.com/Kit203/resume)
 - [Discord Bot](https://github.com/Kit203/discord-bot)
 
