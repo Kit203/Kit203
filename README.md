@@ -68,9 +68,9 @@
 
 * [Opensource](https://www.redhat.com/en/topics/open-source/what-is-open-source) means that you can access it at any time for free and that the code is open for public viewing. Github whilst has a closed liscence has opensourced code. opensource programs and applications can be used by anybody without liscence and sometimes out preforms private liscensed software, programs, or applications. Opensourced programs generally require a pre-requist of some degree of existing knowledge before open sourced programs can be used. They are peer reviewed. 
 
-** [Private Use](https://www.lawinsider.com/dictionary/private-use) means that you can only use a certain program, application, or code within a private application sphere. It cannot be monetized in any way.
+* [Private Use](https://www.lawinsider.com/dictionary/private-use) means that you can only use a certain program, application, or code within a private application sphere. It cannot be monetized in any way.
 
-*** [Commercial Use](https://www.lawinsider.com/clause/commercial-use) means you can use it for commerical projects, and therefore can make money from it.
+* [Commercial Use](https://www.lawinsider.com/clause/commercial-use) means you can use it for commerical projects, and therefore can make money from it.
 <!---
 Kit203/Kit203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
