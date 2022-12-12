@@ -20,13 +20,13 @@
 ## Computer Software
 - Notepad: __Preinstalled__ on desktop windows computers.  
 - [VisualStudios](https://code.visualstudio.com/): __FREE__ but has __many packages__, and __requires a decent amount of systems space to run__. Capable of running pretty much anything and is supposed to work well with windows desktop.
-- [Thonny](https://thonny.org/)  __FREE__ and __OpenSource__ but doesn't offer as many coding languages. Mostly hones in on Python, but offers an immediate display enviroment for python and isn't nearly as clunky.  
-- [Repl.it](https://replit.com/): __FREE__ and __OpenSource__ online program, stores your code in a cloud system for free, but the __code isn't privately stored unless you pay a FEE__. Can fork other people's code similar to Github.  
+- [Thonny](https://thonny.org/)  __FREE__ and __OpenSource*__ but doesn't offer as many coding languages. Mostly hones in on Python, but offers an immediate display enviroment for python and isn't nearly as clunky.  
+- [Repl.it](https://replit.com/): __FREE__ and __OpenSource*__ online program, stores your code in a cloud system for free, but the __code isn't privately stored unless you pay a FEE__. Can fork other people's code similar to Github.  
 - [Github](https://github.com/): Also a __FREE__ online program, stores your code in a cloud, can be privated but it must be made public at least once. 
-- [Blender](https://www.blender.org/): __FREE__ and __OpenSource (licensed as GNU GPL)__ 3D modelling, Video editing, 2D art, and animation software. 
+- [Blender](https://www.blender.org/): __FREE__ and __OpenSource* (licensed as GNU GPL)__ 3D modelling, Video editing, 2D art, and animation software. 
 - [DaVinci Studios](https://www.blackmagicdesign.com/products/davinciresolve): __Free__ video editing software. Note: They are pushing to make their own "system" like that of adobe's preimere pro. This is why they are free. 
 - [Photopea](https://www.photopea.com/): __FREE__ image editor like photoshop. 
-- [QGIS](https://www.qgis.org/en/site/): __FREE__ and __OpenSource__ map making software similar to GIS. 
+- [QGIS](https://www.qgis.org/en/site/): __FREE__ and __OpenSource*__ map making software similar to GIS. 
 
 ## Websites-Serious
 - [FontAwesome](https://fontawesome.com/): __FREE__ logos and stuff for code. 
@@ -35,8 +35,8 @@
 - [CSS Gradient](https://cssgradient.io/):__FREE__ provides code in CSS for a colour gradient of your choosing for your text and such. 
 - [Am I Responsive](https://ui.dev/amiresponsive): __FREE__ tests website responsivity. 
 - [WhatTheFont](https://www.myfonts.com/pages/whatthefont): Provides fonts from a digital image.
-- [GoogleFonts](https://fonts.google.com/) or [DaFont](https://www.dafont.com/): Provides free fonts for __personal use__.
-- [Usabilitygeek](https://usabilitygeek.com/free-fonts-for-commercial-personal-use/): Provides fonts for __commercial use__. 
+- [GoogleFonts](https://fonts.google.com/) or [DaFont](https://www.dafont.com/): Provides free fonts for __personal use**__.
+- [Usabilitygeek](https://usabilitygeek.com/free-fonts-for-commercial-personal-use/): Provides fonts for __commercial use***__. 
 - [Alt-Codes](https://www.alt-codes.net/): Provides special keyboard characters for different languages, emojis, or even just directions like arrows. Or subscript for "MATH". __A basic computer must have!__ Respect culture!
 - [PCPartsPicker](https://pcpartpicker.com/) or [BuildMyPC](https://buildmypc.net/): Allows you to pick parts for your PC. 
 - [RasberryPi](https://thepihut.com/): Allows you to Rasberry Pi a device. (RasberryPi is frankenstien.)
@@ -63,6 +63,14 @@
 - [Discord Bot](https://github.com/Kit203/discord-bot)
 - [freeCodeCamp Survey Project](https://github.com/Kit203/Survey-Form)
 
+
+## Appendix
+
+* [Opensource](https://www.redhat.com/en/topics/open-source/what-is-open-source) means that you can access it at any time for free and that the code is open for public viewing. Github whilst has a closed liscence has opensourced code. opensource programs and applications can be used by anybody without liscence and sometimes out preforms private liscensed software, programs, or applications. Opensourced programs generally require a pre-requist of some degree of existing knowledge before open sourced programs can be used. They are peer reviewed. 
+
+** [Private Use](https://www.lawinsider.com/dictionary/private-use) means that you can only use a certain program, application, or code within a private application sphere. It cannot be monetized in any way.
+
+*** [Commercial Use](https://www.lawinsider.com/clause/commercial-use) means you can use it for commerical projects, and therefore can make money from it.
 <!---
 Kit203/Kit203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
