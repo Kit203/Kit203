@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m @Kit203
-- 👀 I’m interested in ... archaeology, gaming. 
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... C++, HTML, CSS, Javascript, Python, 3D Modeling, and Video Editing. 
 - 💞️ I’m looking to collaborate on ... I am just privately learning, just to expand my personal knowledge bases. If you wanna collaborate with me, cool. Although I won't be much help. I'll try my best. 
 - 📫 How to reach me ... my resume website when it's complete. No trolling, harassment or beligrent behaviour or else immediate block. 
