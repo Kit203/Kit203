@@ -6,7 +6,7 @@
 - 📫 How to reach me ... my resume website when it's complete. No trolling, harassment or beligrent behaviour or else immediate block. 
 
 # My Certificates
-FreeCodeCamp
+- FreeCodeCamp (2025)
 
 # My Recommended Resources
 ## Educational Resources
