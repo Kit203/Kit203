@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on ... I am just privately learning, just to expand my personal knowledge bases. If you wanna collaborate with me, cool. Although I won't be much help. I'll try my best. 
 - 📫 How to reach me ... my resume website when it's complete. No trolling, harassment or beligrent behaviour or else immediate block. 
 
+# My Certificates
+FreeCodeCamp
+
 # My Recommended Resources
 ## Educational Resources
 - [Blender Basics](https://www.udemy.com/course/blendertutorial/) or [Gamedev.tv bundle](https://www.gamedev.tv/p/blender-bundle/?coupon_code=AUTUMN): __Costs $__ You get a certificate. 
