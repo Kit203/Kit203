@@ -8,6 +8,10 @@
 # My Certificates
 - FreeCodeCamp (2025)
 
+# Editors
+- Git for Windows
+- Visual Studio Code
+
 # My Recommended Resources
 ## Educational Resources
 - [Blender Basics](https://www.udemy.com/course/blendertutorial/) or [Gamedev.tv bundle](https://www.gamedev.tv/p/blender-bundle/?coupon_code=AUTUMN): __Costs $__ You get a certificate. 
