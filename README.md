@@ -33,7 +33,10 @@
 - [Blender](https://www.blender.org/): __FREE__ and __OpenSource* (licensed as GNU GPL)__ 3D modelling, Video editing, 2D art, and animation software. 
 - [DaVinci Studios](https://www.blackmagicdesign.com/products/davinciresolve): __Free__ video editing software. Note: They are pushing to make their own "system" like that of adobe's preimere pro. This is why they are free. 
 - [Photopea](https://www.photopea.com/): __FREE__ image editor like photoshop. 
-- [QGIS](https://www.qgis.org/en/site/): __FREE__ and __OpenSource*__ map making software similar to GIS. 
+- [QGIS](https://www.qgis.org/en/site/): __FREE__ and __OpenSource*__ map making software similar to GIS.
+## Software for Visual Studios 
+- [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Websites-Serious
 - [FontAwesome](https://fontawesome.com/): __FREE__ logos and stuff for code. 
