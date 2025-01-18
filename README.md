@@ -37,6 +37,8 @@
 ## Software for Visual Studios 
 - [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+- [Live Share](https://visualstudio.microsoft.com/services/live-share/)
 
 ## Websites-Serious
 - [FontAwesome](https://fontawesome.com/): __FREE__ logos and stuff for code. 
