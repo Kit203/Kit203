@@ -69,9 +69,9 @@
 - I don't have one yet. 
 
 ## My Last Updated Repos
-- [Resume Website](https://github.com/Kit203/resume)
-- [Discord Bot](https://github.com/Kit203/discord-bot)
-- [freeCodeCamp Survey Project](https://github.com/Kit203/Survey-Form)
+- [Expanding Cards](https://github.com/Kit203/Expanding-Cards)
+- [Progress Steps](https://github.com/Kit203/Progress-Steps)
+- [Rotating Navigation](https://github.com/Kit203/Rotating-Navigation) 
 
 
 ## Appendix
