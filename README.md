@@ -41,7 +41,8 @@
 - [Live Share](https://visualstudio.microsoft.com/services/live-share/)
 
 ## Websites-Serious
-- [FontAwesome](https://fontawesome.com/): __FREE__ logos and stuff for code. 
+- [FontAwesome](https://fontawesome.com/): __FREE__ logos and stuff for code.
+- [ReMixIcons](https://remixicon.com/): __FREE__ logos and stuff for code. 
 - [MyColorSpace](https://mycolor.space/):__FREE__ just makes a colour gradient based off color selection using basic colour theory. 
 - [ImageColorPicker](https://imagecolorpicker.com/color-code/2596be): __FREE__ picks colors off images. 
 - [CSS Gradient](https://cssgradient.io/):__FREE__ provides code in CSS for a colour gradient of your choosing for your text and such. 
