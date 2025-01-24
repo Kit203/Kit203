@@ -6,6 +6,7 @@
 - 📫 How to reach me ... my resume website when it's complete. No trolling, harassment or beligrent behaviour or else immediate block. 
 
 # My Certificates
+- Five Day Coding Challenge - Code Institute (2025)
 - FreeCodeCamp (2025)
 
 # Editors
