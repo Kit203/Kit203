@@ -44,8 +44,9 @@
 ## Websites-Serious
 - [FontAwesome](https://fontawesome.com/): __FREE__ logos and stuff for code.
 - [ReMixIcons](https://remixicon.com/): __FREE__ logos and stuff for code. 
-- [MyColorSpace](https://mycolor.space/):__FREE__ just makes a colour gradient based off color selection using basic colour theory. 
-- [ImageColorPicker](https://imagecolorpicker.com/color-code/2596be): __FREE__ picks colors off images. 
+- [MyColorSpace](https://mycolor.space/):__FREE__ just makes a colour gradient based off color selection using basic colour theory.
+- [ImageColorPicker](https://imagecolorpicker.com/color-code/2596be): __FREE__ picks colors off images.
+- [Accessible Color Pallet Generator](https://venngage.com/tools/accessible-color-palette-generator) __FREE__ makes a color pallette based off one of your hex codes. 
 - [CSS Gradient](https://cssgradient.io/):__FREE__ provides code in CSS for a colour gradient of your choosing for your text and such. 
 - [Am I Responsive](https://ui.dev/amiresponsive): __FREE__ tests website responsivity. 
 - [WhatTheFont](https://www.myfonts.com/pages/whatthefont): Provides fonts from a digital image.
