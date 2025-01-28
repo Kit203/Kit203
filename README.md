@@ -7,7 +7,7 @@
 
 # My Certificates
 - Five Day Coding Challenge - Code Institute (2025)
-- FreeCodeCamp (2025)
+- 
 
 # Editors
 - Git for Windows
